@@ -45,6 +45,12 @@ For system-wide access, run:
 sudo dart horoscope.dart -i
 ```
 
+For the python version :
+```bash
+sudo python3 horoscope.py -i
+```
+
+
 This will install `horoscope` to `/usr/local/bin` (or `~/.local/bin` if it exists).
 
 ## Credits
