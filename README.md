@@ -54,6 +54,7 @@ This project wouldn't be possible without the contributions of these magnificent
 * **Andy Barr:** The tech guru who ignited the spark of inspiration.
 * **Hawk:** The visionary leader, pushing the boundaries of innovation.
 * **Robotdick:** The code-crunching machine, turning dreams into reality.
+* **pythonaconda:** The python-aconda expert on all things llm and .py
 
 ## License
 
